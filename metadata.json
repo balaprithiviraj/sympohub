@@ -1,0 +1,8 @@
+{
+  "name": "CertiFlow - Automated Attendance & Certificate Generator",
+  "description": "A comprehensive system to manage event attendees via Google Form data, verify attendance using location-aware QR codes, and automatically generate and send certificates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
