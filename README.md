@@ -18,3 +18,27 @@ View your app in AI Studio: https://ai.studio/apps/drive/1fTwn4haKgFpNql9lHOXwsU
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+🚀 Live Demo
+🔗 https://sympohub-six.vercel.app/
+📈 Advantages
+Reduces manual effort
+Prevents fake participation
+Fast and reliable certificate distribution
+Scalable for large events
+User-friendly interface
+🔮 Future Enhancements
+QR Code based attendance check-in
+Multi-event management support
+Admin authentication system
+Blockchain-based certificate validation
+Mobile application support
+👨‍💻 Author
+S. Prithiviraj
+B.Tech – 2nd Year
+📧 Email: balaprithiviraj105@gmail.com
+🌐 GitHub:https://github.com/balaprithiviraj/sympohub
+📜 License
+This project is developed for academic and learning purposes.
+
+
